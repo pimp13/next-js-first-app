@@ -1,0 +1,9 @@
+{
+  "short_name": "Next App",
+  "name": "Next.js Progressive Web App",
+  "description": "A simple PWA example using Next.js",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
